@@ -13,6 +13,10 @@ A lightweight JS library for watching DOM element creation and removal using [Mu
 
 ```bash
 npm install arrive --save   # Using NPM
+yarn add arrive             # Using Yarn
+pnpm add arrive             # Using PNPM
+bun add arrive              # Using Bun
+```
 ```
 Or [download arrive.min.js](https://raw.githubusercontent.com/uzairfarooq/arrive/master/minified/arrive.min.js) directly.
 
@@ -169,7 +173,6 @@ If you want to contribute to arrive, here is the workflow you should use:
 9. Once it is accepted, remember to pull those changes back into your develop branch!
 
 #### Some features/bugs you can send pull requests for
-- [#70](https://github.com/uzairfarooq/arrive/issues/70): Add Typescript types to the project
 - [#69](https://github.com/uzairfarooq/arrive/issues/69): Option to watch for text change
 
 **Keywords**
